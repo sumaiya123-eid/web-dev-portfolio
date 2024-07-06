@@ -1,0 +1,98 @@
+
+.open-sans-font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.span1{
+    color: #FD6E0A;}
+    nav{
+        display: flex;
+        margin: 50px 230px;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .head1{
+        font-weight: 800;
+        font-size: 45px;
+    }
+
+    ul{
+        display: flex;
+        align-items: center;
+    }
+li{margin-right: 20px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: #474747;
+    font-size: 20px;
+}
+.btn{
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 150px;
+    height: 64px;
+    border: none;
+}
+.greetings{
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+.name{
+    font-weight: bold;
+    font-size: 85px;
+    color: rgb(24, 24, 24);
+}
+.description{
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
+}
+.baap{
+    display: flex;
+    justify-content: space-around;
+}
+.banner{
+    display: flex;
+    margin: 0 38px 0 230px;
+}
+.header{
+    background-image: url("../images/developer.png"),url("../images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: top left,bottom right ;
+}
+.about{
+    width: 1140px;
+    height: 550px;
+    margin: 0 auto;
+}
+.am{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+    text-align: center;
+}
+.primary-bg{
+    background-color: #FFF8F3;
+}
+.aboutme{
+        padding: 131px;}
+    main{
+        margin: 130px 230px;}
+        .name{
+            font-size: 20px;
+            color: #757575;
+        }
+        .info{
+            font-size: 20px;
+            color: #474747;
+            font-weight: 700;}
